@@ -1,0 +1,24 @@
+{
+  "name": "mongodb-github-api-flutter-zapier-news",
+  "version": "1.0.0",
+  "description": "## DESCRIPTION",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "git add . && git commit -m Build && git push"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abd2k27/AREA-Action-REAction-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abd2k27/AREA-Action-REAction-/issues"
+  },
+  "homepage": "https://github.com/Abd2k27/AREA-Action-REAction-#readme"
+}
